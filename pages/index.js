@@ -5,12 +5,10 @@ export default function Home() {
   const [bass, setBass] = useState(20);
   const [compression, setCompression] = useState(60);
   function handleBassChange(e) {
-    // setVolume({ value: e.target.value });
     console.log(e.target.value);
     setBass(e.target.value);
   }
   function handleCompressionChange(e) {
-    // setVolume({ value: e.target.value });
     console.log(e.target.value);
     setCompression(e.target.value);
   }
