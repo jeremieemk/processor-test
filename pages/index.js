@@ -23,7 +23,6 @@ export default function Home() {
         <div className="faders">
           <div className="fader">
             <input
-              id="typeinp"
               type="range"
               min="0"
               max="100"
@@ -36,7 +35,6 @@ export default function Home() {
           </div>
           <div className="fader">
             <input
-              id="typeinp"
               type="range"
               min="0"
               max="100"
