@@ -23,7 +23,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="container">
-        <h1>RK Sound Processor</h1>
+        <h1>Test Sound Processor UI</h1>
         <div className="faders">
           <div className="fader">
             <input
